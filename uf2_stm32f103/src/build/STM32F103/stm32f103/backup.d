@@ -1,14 +1,14 @@
 build/STM32F103/./stm32f103/backup.o: stm32f103/backup.c \
  ../libopencm3/include/libopencm3/stm32/rcc.h \
  ../libopencm3/include/libopencm3/cm3/common.h \
- d\:\qmk_msys\mingw64\lib\gcc\arm-none-eabi\10.1.0\include\stdint.h \
- d\:\qmk_msys\mingw64\arm-none-eabi\include\stdint.h \
- d\:\qmk_msys\mingw64\arm-none-eabi\include\machine\_default_types.h \
- d\:\qmk_msys\mingw64\arm-none-eabi\include\sys\features.h \
- d\:\qmk_msys\mingw64\arm-none-eabi\include\_newlib_version.h \
- d\:\qmk_msys\mingw64\arm-none-eabi\include\sys\_intsup.h \
- d\:\qmk_msys\mingw64\arm-none-eabi\include\sys\_stdint.h \
- d\:\qmk_msys\mingw64\lib\gcc\arm-none-eabi\10.1.0\include\stdbool.h \
+ c:\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdint.h \
+ c:\msys64\mingw64\arm-none-eabi\include\stdint.h \
+ c:\msys64\mingw64\arm-none-eabi\include\machine\_default_types.h \
+ c:\msys64\mingw64\arm-none-eabi\include\sys\features.h \
+ c:\msys64\mingw64\arm-none-eabi\include\_newlib_version.h \
+ c:\msys64\mingw64\arm-none-eabi\include\sys\_intsup.h \
+ c:\msys64\mingw64\arm-none-eabi\include\sys\_stdint.h \
+ c:\msys64\mingw64\lib\gcc\arm-none-eabi\12.2.0\include\stdbool.h \
  ../libopencm3/include/libopencm3/stm32/memorymap.h \
  ../libopencm3/include/libopencm3/stm32/f1/memorymap.h \
  ../libopencm3/include/libopencm3/cm3/memorymap.h \
